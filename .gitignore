@@ -1,0 +1,11 @@
+# Raw data (large file — download separately from Kaggle)
+data/ecommerce_sales.csv
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# OS
+.DS_Store
