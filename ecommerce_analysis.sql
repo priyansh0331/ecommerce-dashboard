@@ -1,11 +1,3 @@
--- ============================================================
--- ecommerce_analysis.sql
--- Key analytical queries for the E-Commerce Sales Dashboard
--- Run these against ecommerce_sales_clean.csv loaded into
--- any SQL engine (SQLite, MySQL, PostgreSQL, etc.)
--- ============================================================
-
-
 -- ── 1. Monthly Revenue ────────────────────────────────────────────────────────
 -- Total revenue and order count per month, ordered chronologically
 

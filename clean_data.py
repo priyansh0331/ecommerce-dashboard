@@ -1,16 +1,3 @@
-"""
-clean_data.py
--------------
-Cleans the raw Amazon e-commerce sales CSV and outputs a clean version
-ready to import into Power BI.
-
-Usage:
-    python clean_data.py
-
-Input  : data/ecommerce_sales.csv
-Output : data/ecommerce_sales_clean.csv
-"""
-
 import pandas as pd
 import os
 
